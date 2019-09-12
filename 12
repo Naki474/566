@@ -1,0 +1,66 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am naki747 on github.
+  * I am naki (https://keybase.io/naki) on keybase.
+  * I have a public key ASDemCoK0ZzjGeaIR9fYn7VQJobVPynFKHX6-Sw_t0er4Ao
+
+To claim this, I am signing this object:
+
+json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120de982a0ad19ce319e68847d7d89fb5502686d53f29c52875faf92c3fb747abe00a",
+      "host": "keybase.io",
+      "kid": "0120de982a0ad19ce319e68847d7d89fb5502686d53f29c52875faf92c3fb747abe00a",
+      "uid": "7119e4da590b01be96eef101ed66f119",
+      "username": "naki"
+    },
+    "merkle_root": {
+      "ctime": 1568321121,
+      "hash": "bd18cce178ee6d3d5efe8d35b6a67086f88c15395a050074a26304b9536299d7a7c6207f1f44c2ecf8ff6bb1896875dda822f918f4deeb7fb9a48ad58af24326",
+      "hash_meta": "d564749ab5a35138f5fdf3f444902b39ae9d415c7908580f3f80de9c93780a23",
+      "seqno": 7042137
+    },
+    "service": {
+      "entropy": "7Kt1fHBsnpDnr2zMKKCLlMhf",
+      "name": "github",
+      "username": "naki747"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568321128,
+  "expire_in": 504576000,
+  "prev": "c46900968065611ba0ced91996dcc7a46ad91afbd3a33bfface7069439a92685",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+
+with the key [ASDemCoK0ZzjGeaIR9fYn7VQJobVPynFKHX6-Sw_t0er4Ao](https://keybase.io/naki), yielding the signature:
+
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3pgqCtGc4xnmiEfX2J+1UCaG1T8pxSh1+vksP7dHq+AKp3BheWxvYWTESpcCEcQgxGkAloBlYRugztkZltzHpGrZGvvTozv/rOcGlDmpJoXEIFFkaaBuAxgzNoDFfY2GpjiloFIyXaK7nnPWNttvCMrlAgHCo3NpZ8RA0Sro/2YAx07PBACcZnllVj/WoRg8EAZaoUk0X6ZrEuLaJTBOwaPCtnHR+w9zMAPX3atLqp7haxOxZdKgVdVfB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO3Z+VQVGkJozmtqrNUEKT7mQyrZg73iJF7+o3icuJLco3RhZ80CAqd2ZXJzaW9uAQ==
+
+
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/naki
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+bash
+# look me up
+keybase id naki
